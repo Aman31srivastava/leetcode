@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Aman31srivastava/leetcode/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Aman31srivastava/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Aman31srivastava/leetcode/tree/master/0595-big-countries) |
+| [0627-swap-salary](https://github.com/Aman31srivastava/leetcode/tree/master/0627-swap-salary) |
 | [1415-students-and-examinations](https://github.com/Aman31srivastava/leetcode/tree/master/1415-students-and-examinations) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Aman31srivastava/leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1827-invalid-tweets](https://github.com/Aman31srivastava/leetcode/tree/master/1827-invalid-tweets) |
