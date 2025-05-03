@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Aman31srivastava/leetcode/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Aman31srivastava/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Aman31srivastava/leetcode/tree/master/0595-big-countries) |
+| [0610-triangle-judgement](https://github.com/Aman31srivastava/leetcode/tree/master/0610-triangle-judgement) |
 | [0627-swap-salary](https://github.com/Aman31srivastava/leetcode/tree/master/0627-swap-salary) |
 | [1179-game-play-analysis-i](https://github.com/Aman31srivastava/leetcode/tree/master/1179-game-play-analysis-i) |
 | [1301-reformat-department-table](https://github.com/Aman31srivastava/leetcode/tree/master/1301-reformat-department-table) |
