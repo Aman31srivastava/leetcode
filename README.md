@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/Aman31srivastava/leetcode/tree/master/1179-game-play-analysis-i) |
 | [1301-reformat-department-table](https://github.com/Aman31srivastava/leetcode/tree/master/1301-reformat-department-table) |
 | [1415-students-and-examinations](https://github.com/Aman31srivastava/leetcode/tree/master/1415-students-and-examinations) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/Aman31srivastava/leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Aman31srivastava/leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1827-invalid-tweets](https://github.com/Aman31srivastava/leetcode/tree/master/1827-invalid-tweets) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Aman31srivastava/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
