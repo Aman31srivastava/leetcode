@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aman31srivastava/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Aman31srivastava/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aman31srivastava/leetcode/tree/master/0169-majority-element) |
+| [1319-unique-number-of-occurrences](https://github.com/Aman31srivastava/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aman31srivastava/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aman31srivastava/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Aman31srivastava/leetcode/tree/master/0169-majority-element) |
+| [1319-unique-number-of-occurrences](https://github.com/Aman31srivastava/leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
