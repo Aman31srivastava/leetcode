@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aman31srivastava/leetcode/tree/master/0007-reverse-integer) |
+| [1013-fibonacci-number](https://github.com/Aman31srivastava/leetcode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -62,8 +63,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aman31srivastava/leetcode/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/Aman31srivastava/leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
 | [3396-valid-word](https://github.com/Aman31srivastava/leetcode/tree/master/3396-valid-word) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Aman31srivastava/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Aman31srivastava/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
