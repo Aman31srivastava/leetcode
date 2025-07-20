@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aman31srivastava/leetcode/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/Aman31srivastava/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Aman31srivastava/leetcode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aman31srivastava/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Aman31srivastava/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aman31srivastava/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Aman31srivastava/leetcode/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/Aman31srivastava/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aman31srivastava/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Aman31srivastava/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -41,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aman31srivastava/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Aman31srivastava/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Aman31srivastava/leetcode/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/Aman31srivastava/leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aman31srivastava/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Aman31srivastava/leetcode/tree/master/0268-missing-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aman31srivastava/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -78,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Aman31srivastava/leetcode/tree/master/1013-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Aman31srivastava/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Aman31srivastava/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
