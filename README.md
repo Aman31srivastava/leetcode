@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aman31srivastava/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Aman31srivastava/leetcode/tree/master/0053-maximum-subarray) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aman31srivastava/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Aman31srivastava/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Aman31srivastava/leetcode/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/Aman31srivastava/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aman31srivastava/leetcode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aman31srivastava/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
