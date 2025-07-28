@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-salary](https://github.com/Aman31srivastava/leetcode/tree/master/0627-swap-salary) |
 | [1161-project-employees-i](https://github.com/Aman31srivastava/leetcode/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/Aman31srivastava/leetcode/tree/master/1179-game-play-analysis-i) |
+| [1258-article-views-i](https://github.com/Aman31srivastava/leetcode/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/Aman31srivastava/leetcode/tree/master/1301-reformat-department-table) |
 | [1415-students-and-examinations](https://github.com/Aman31srivastava/leetcode/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Aman31srivastava/leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
