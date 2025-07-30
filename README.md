@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-find-users-with-valid-e-mails](https://github.com/Aman31srivastava/leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/Aman31srivastava/leetcode/tree/master/1670-patients-with-a-condition) |
 | [1827-invalid-tweets](https://github.com/Aman31srivastava/leetcode/tree/master/1827-invalid-tweets) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Aman31srivastava/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Aman31srivastava/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Math
 |  |
