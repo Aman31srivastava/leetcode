@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Aman31srivastava/leetcode/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/Aman31srivastava/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Aman31srivastava/leetcode/tree/master/1013-fibonacci-number) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Aman31srivastava/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aman31srivastava/leetcode/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/Aman31srivastava/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aman31srivastava/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Aman31srivastava/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Aman31srivastava/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aman31srivastava/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Aman31srivastava/leetcode/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/Aman31srivastava/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Aman31srivastava/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Sorting
 |  |
 | ------- |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Aman31srivastava/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aman31srivastava/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Simulation
+|  |
+| ------- |
+| [2679-count-distinct-numbers-on-board](https://github.com/Aman31srivastava/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 <!---LeetCode Topics End-->
