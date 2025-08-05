@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aman31srivastava/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Aman31srivastava/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Aman31srivastava/leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Aman31srivastava/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Aman31srivastava/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aman31srivastava/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Aman31srivastava/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Aman31srivastava/leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Aman31srivastava/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Aman31srivastava/leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Aman31srivastava/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Aman31srivastava/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Aman31srivastava/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Sorting
