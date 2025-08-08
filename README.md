@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Aman31srivastava/leetcode/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/Aman31srivastava/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Aman31srivastava/leetcode/tree/master/1013-fibonacci-number) |
+| [2383-add-two-integers](https://github.com/Aman31srivastava/leetcode/tree/master/2383-add-two-integers) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Aman31srivastava/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Array
 |  |
