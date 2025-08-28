@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aman31srivastava/leetcode/tree/master/0007-reverse-integer) |
+| [0233-number-of-digit-one](https://github.com/Aman31srivastava/leetcode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/Aman31srivastava/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Aman31srivastava/leetcode/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/Aman31srivastava/leetcode/tree/master/2383-add-two-integers) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aman31srivastava/leetcode/tree/master/0053-maximum-subarray) |
+| [0233-number-of-digit-one](https://github.com/Aman31srivastava/leetcode/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/Aman31srivastava/leetcode/tree/master/1013-fibonacci-number) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Aman31srivastava/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## String
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/Aman31srivastava/leetcode/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/Aman31srivastava/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
