@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aman31srivastava/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0233-number-of-digit-one](https://github.com/Aman31srivastava/leetcode/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/Aman31srivastava/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2679-count-distinct-numbers-on-board](https://github.com/Aman31srivastava/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aman31srivastava/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
